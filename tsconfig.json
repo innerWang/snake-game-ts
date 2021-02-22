@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es2015" /* Specify ECMAScript target version: */,
+    "module": "es2015" /* Specify module code generation */,
+    "strict": true /* Enable all strict type-checking options. */,
+    "noEmitOnError": true
+  }
+}
